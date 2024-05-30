@@ -1,0 +1,33 @@
+.body{
+    /* margin: 0 auto; */
+    
+    height: 750px;
+    margin: 0;
+
+   
+    background-color: #a28089;
+}
+.heading{
+    font-size: 30px;
+    color:brown;
+    text-align: center;
+    font-style: oblique;
+    margin-top: 50px;
+    
+   
+}
+.enroll{
+
+    margin-left: 500px;
+    margin-top: 80px;
+    font-size: 25px;
+    background-color:darkgoldenrod;
+
+}
+.takeAttendance{
+
+    margin-left: 100px;
+    margin-top: 80px;
+    font-size: 25px;
+    background-color:darkgoldenrod;
+}
